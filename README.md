@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My browser tabs are more organized than my life—barely
 
-
+Know more about me: https://medha-portfolio-git-main-medha-mishras-projects.vercel.app/
 LinkedIn: https://www.linkedin.com/in/medha-mishra-b17166250/
